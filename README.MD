@@ -53,6 +53,12 @@ INSERT INTO T1_POSITION(id, code, name, is_delete) values (4, HELP, Help Desk, 0
 INSERT INTO T1_POSITION(id, code, name, is_delete) values (5, STF, Staff, 0);
 ```
 
+## Example App
+
+![List Employee](https://raw.githubusercontent.com/ragilarain/Spring-Boot-CRUD-Employee/master/img/Screenshot%20from%202020-07-23%2021-59-32.png)
+
+
+
 ## Authors
 
 * **Ragil Arain Sawala** - *Initial work* - [Ragil Arain](https://github.com/ragilarain)
